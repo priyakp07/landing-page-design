@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 30px;
+}
+
+.container img {
+  width: 50px;
+}
+h1 {
+  text-align: center;
+  margin: auto;
+}
+p {
+  text-align: center;
+}
+button {
+  padding: 5px 5px 5px 5px;
+  font-weight: bold;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+.center {
+  margin: auto;
+}
+.center button {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.content {
+  display: flex;
+}
+.content img {
+  width: 550px;
+}
